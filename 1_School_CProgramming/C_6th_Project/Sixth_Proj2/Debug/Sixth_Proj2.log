@@ -1,0 +1,2 @@
+﻿LINK : fatal error LNK1168: C:\Users\allrp\Desktop\학교 자료\3-1\C프로그래밍\과제\6주차\Sixth_Proj\Debug\Sixth_Proj2.exe을(를) 쓰기용으로 열 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
